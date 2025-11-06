@@ -143,9 +143,4 @@ Your browser will open automatically with the live dashboard updating every 5 se
   - **Alerting System:** Send alerts to a dedicated Kafka topic when fraud is detected.
   - **Cloud Deployment:** Deploy the Dockerized application on AWS, Azure, or GCP.
 
-<!-- end list -->
 
-```
-
-Would you like me to help you add those **badges, screenshots, and a "Quick Start" section** now to make it more professional for recruiters?
-```
